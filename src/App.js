@@ -1,6 +1,6 @@
 import './App.css';
-import Tabela from './components/Tabela'
-import Modal from './components/Modal'
+import Tabela from './shares/components/Tabela'
+import Modal from './shares/components/Modal'
 
 
 
