@@ -36,6 +36,7 @@ export default function BasicModal() {
             Adicione o seu Anime
           </Typography>
           <ImputsModal/>
+          <Button>ADICIONAR</Button>
         </Box>
       </Modal>
     </div>
